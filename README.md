@@ -1,2 +1,2 @@
 # DCC202 2025-3-b
-André Lopes
+André Silva Lopes
